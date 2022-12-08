@@ -45,5 +45,17 @@
 | (￣ヽ＿_ヽ_)__) 
 .＼二つ
       </pre></b>
+      <!-- @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap'); 
+
+h1, p {
+  font-family: Josefin Sans;
+}
+
+h1 {
+  border-style: solid;
+  border-color: yellow;
+  border-block-end: 2px dotted yellow;
+  border-block-start: 2px dotted yellow;
+} -->
   </body>
 </html>

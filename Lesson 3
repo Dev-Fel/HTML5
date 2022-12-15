@@ -1,0 +1,97 @@
+<!-- HTML Semantic Tags -->
+
+<!-- Semantic elements used to make navigation and web development have more sense: -->
+
+<!-- example below and explanation below -->
+
+<header>
+<img src="logo.svg" alt="site logo">
+<h1>NASA</h1>
+</header>
+
+<!-- The <header> tag wraps the introductory content of any part of the page. It's allowed to use several <header> elements in one document. -->
+<!-- However, most often it's used to form the introductory content of the entire web page, i.e. the header of the site. In the <header> you -->
+<!-- usually put the name of the site, its logo, a search form, and so on. -->
+
+
+<!-- example and explanation below -->
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<!-- The <nav> tag wraps a set of links to navigate the site. You can also use more than one <nav> tag in a document. -->
+<!-- Often navigation links are placed inside the header of the site, but not necessarily. -->
+
+<!-- example and explanation below -->
+
+<main>
+  <h2>Tracks<h2>
+  <div>
+    <h3>Frontend developer</h3>
+    /* ... */
+  <div>
+  <div>
+    <h3>Python developer</h3>
+    /* ... */
+  <div>
+    /* ... */
+</main>
+
+<!-- In the tag <main> you usually put the main content of the HTML document. This tag should not contain elements that are repeated on other -->
+<!-- pages of the site: navigation links, name or logo, etc. -->
+
+<!-- example and explanation below -->
+
+<section>
+ <h2>About me</h2>
+ <p>Hi, I'm ...</p>
+</section>
+<section>
+  <h2>Gallery</h2>
+  <div>
+    <img src="1.jpg">
+    <img src="2.jpg">
+  <div>
+</section>
+
+<!-- The <section> tag is needed to group logically related content and divide your page into sections. In this context, a section is a thematic -->
+<!-- grouping of the content of the page, usually with its own title. For example, the <section> tag can define a news block or contact information. -->
+<!-- It is acceptable to place one <section> tag inside another. The <section> tag is not a replacement for the <div> tag. The <div> element is -->
+<!-- non-semantic, i.e. it does not tell you anything about the content that is placed inside of it. -->
+
+<!-- example and explanation below -->
+
+<article>
+  <h2>HTML</h2>
+  <p>HTML is...</p>
+</article>
+
+<!-- The <article> tag defines independent, self-contained content. Content placed in this element usually makes sense on its own and is -->
+<!-- understandable independent of the other parts of the website. You can wrap a forum post, a blog post, or some other self-contained piece -->
+<!-- of content in this tag. You can have a few <article> tags on one page, too. -->
+
+<!-- example and explanation below -->
+
+<p>Today I wrote my first JavaScript program.</p>
+<aside>
+  <p>JavaScript is a programming language.<p>
+</aside>
+
+<!-- The <aside> tag defines a part of the document which complements the main content but is not an integral part of it. The <aside> element can -->
+<!-- be a sidebar, it can contain additional comments, a list of terms, or advertisements. -->
+
+<!-- example and explanation below -->
+
+<footer>
+  <div>
+    <a href="/support/">Support</a>
+    <a href="/contribute/">Contribute</a>
+  </div>
+  <p>David Cobb, 2021</p>
+</footer>
+
+<!-- The <footer> tag defines the footer for a document or section. The <footer> tag can contain the author's name, the date of the document, or -->
+<!-- contact information. It's also ok to use several <footer> tags on one page. -->

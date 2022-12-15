@@ -1,0 +1,30 @@
+<!-- A guide through Fonts and how to make your site confortable, pleasant to read, avoid visual discomfort and increase cognitive load. -->
+
+<!-- Two fonts types are used all the time, and two are used less often (in fact, there are also combinations, but we won't delve into these). -->
+<!-- The most common font types are sans and serif. The main difference is in the style of each character (letters, numbers, or punctuation marks). -->
+<!-- Sans is smoother, neat, maybe even "modern". Serif is rather conservative, classic — it's characterized by serifs, small lines attached to characters. -->
+
+<!-- Script and display fonts are primarily decorative. You may have seen or used these kinds of typefaces in business cards, booklets, website designs, -->
+<!-- and so on. They are hardly ever utilized in apps, platforms, and services. -->
+
+<!-- In most cases, only sans fonts are used in mobile development. It's pretty rare to find the main font of an application for ordering food or delivery, -->
+<!-- or an online store, with the serif style. However, there are some cases where serif fonts are used in applications — they look good as large headlines -->
+<!-- in newsfeeds, can be great in reading apps, and are sometimes chosen for buttons. -->
+
+<!-- Choosing fonts (and selecting colors) for a project can end up taking a really long time. So it makes sense to simplify the process by using a special -->
+<!-- service that allows you to compare text snippets rendered in different font styles. For example, you can use Google Fonts (https://fonts.google.com/): -->
+
+<!-- Entering a specific phrase or word and seeing how it would look in different styles is a big plus. Special filters will help you choose a font -->
+<!-- category, which could be used for things like including a short passage of text in a beautiful handwritten style. If your project's text isn't in -->
+<!-- English, you can choose any of the suggested languages and find fonts that support them. For those who like maximum customization, a selection of --> 
+<!-- style parameters is also available — thickness, letter width, slant, and so on. -->
+
+<!-- The service is very convenient because it enables you to choose the visual appearance of your text for the project and download all the styles of a -->
+<!-- font as an archive. It even allows you to select your preferred option and see which font pairs are suitable for use together. -->
+
+<!-- It's worth knowing that Google Fonts also has a Developer API (https://developers.google.com/fonts/docs/developer_api), which makes it possible to -->
+<!-- connect the platform to your project. This could be used for things like allowing users to choose custom fonts inside your service. -->
+
+<!-- Using a second (auxiliary) font in a project is a fairly common practice. For example, you could display all the headers in Lato style and make the -->
+<!-- body text Ubuntu. To avoid getting stuck when choosing matching fonts or accidentally opting for combinations that make users strain when reading, -->
+<!-- you can visit the fontpair website (https://www.fontpair.co/). It contains great pairings along with helpful illustrative examples. -->
